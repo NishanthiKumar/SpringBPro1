@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Nisha_ms2_InnerJoin&apos;" deleteContents="false" description="Delete resource &apos;Nisha_ms2_InnerJoin&apos;" element1="/Nisha_ms2_InnerJoin" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1670137452878"/>
+</session>
